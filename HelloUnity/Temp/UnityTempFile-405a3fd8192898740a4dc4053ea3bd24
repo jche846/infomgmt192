@@ -86,6 +86,7 @@
 Assets/CubeScript.cs
 Assets/Product.cs
 Assets/Sketch.cs
+Assets/Sketch1.cs
 Assets/Trello.cs
 Assets/WebRequest.cs
 -r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll"
