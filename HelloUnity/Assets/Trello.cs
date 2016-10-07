@@ -1,15 +1,9 @@
-﻿using UnityEngine;
-using System.Collections;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
-public class Trello : MonoBehaviour {
+class Trello {
 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+	//List all the columns of your table here in the same format as below.
 }
